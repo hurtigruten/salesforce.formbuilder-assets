@@ -8,4 +8,4 @@ jQuery(document).ready(function() {
       desiredControl.setValue({value: parentFrame.href});
       console.log('custom static resource loaded');
     }, 2000);
-  });
+  })
